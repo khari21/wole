@@ -1,5 +1,6 @@
 {
-	"versionCode": 261,
+	"versionCode": 210,
+	"versionCode2": 261,
 	"preUrl": "http://39.98.166.18:7001",
 	"reCode": "http://39.98.166.18:9000/reCode.png",
 	"url": "http://39.98.166.18:9000/wltv.apk",
