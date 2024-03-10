@@ -1,4 +1,4 @@
-{
+	{
 	"versionCode": 210,
 	"versionCode2": 261,
 	"preUrl": "http://39.98.166.18:7001",
@@ -15,5 +15,5 @@
 	"initType": "1",
 	"isReward": true,
 	"isSupport": false,
-	"isMember": false
+	"isMember": true
 }
