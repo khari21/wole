@@ -1,6 +1,6 @@
 	{
 	"versionCode": 210,
-	"versionCode2": 261,
+	"versionCode2": 262,
 	"preUrl": "http://39.98.166.18:7001",
 	"reCode": "http://39.98.166.18:9000/reCode.png",
 	"url": "https://download1526.mediafire.com/gotz9glxmukgSor32C-shh18VUUUCOXWDLIBkbtViDu-0euKv3HMR_tv8ScO-RH-RkzBzIuiSpBuN_LNMYxufQFdabxD8O0PSgpCaIi38Avtou6Eq1MUlshxJDA1NVMIZ2fDev7KEQsVSsXGAvN47JYhV9oosVQfO1PzEAiEqbwfmock/pb3xid7k0a3i2cr/wltv.apk",
@@ -13,7 +13,7 @@
 	"title": "我乐影视 2.6.1",
 	"content": "1、优化视频缓存、\n2、新增分享功能",
 	"initType": "1",
-	"isReward": false,
+	"isReward": true,
 	"isSupport": false,
 	"isMember": false
 }
