@@ -13,7 +13,7 @@
 	"title": "我乐影视 2.6.1",
 	"content": "1、优化视频缓存、\n2、新增分享功能",
 	"initType": "1",
-	"isReward": true,
+	"isReward": false,
 	"isSupport": false,
-	"isMember": true
+	"isMember": false
 }
