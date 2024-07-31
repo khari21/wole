@@ -1,3 +1,10 @@
+8/1
+  战队           	类型        赔率      推荐      下注
+isurus vs infinity胜负总局      1.64       中      isurus
+KT vs oksaving    胜负总局      1.2        中        KT
+teams vs mgn      胜负总局      1.13       中      teams
+
+
 07/31
   战队           类型        赔率      推荐      下注
 T1 vs DK       胜负总局      1.7        低        T1
