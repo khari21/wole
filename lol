@@ -1,3 +1,10 @@
+8/2
+  战队           	类型        赔率      推荐      下注       推荐金额
+besik vs eintra   胜负总局      1.42       中      eintra        1000
+ns vs hle         胜负单局      1.15       高        hle         1500
+erber vs viking   胜负总局      1.13       高      viking        1500
+teamf vs teams    胜负总局      1.18       中      teams         1000
+
 8/1
   战队           	类型        赔率      推荐      下注
 isurus vs infinity胜负总局      1.64       中      isurus
