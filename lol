@@ -1,3 +1,19 @@
+8/4
+  战队           	类型        赔率      推荐      下注       推荐金额
+kc vs bds         胜负总局      2.5        中       bds           500
+bnk vs drx        胜负总局      1.31       中       bnk          1000
+kt vs bro         胜负总局      1.1        高       kt           3000
+ns vs kdf         胜负总局      1.4        中      kdf           1000
+gam vs viki       胜负总局      2.4        中      viki          500
+
+8/3
+  战队           	类型        赔率      推荐      下注       推荐金额
+t1 vs gen         胜负总局      3.5        低       t1           200
+bnk vs drx        胜负总局      1.31       中       bnk          1000
+lgd vs ig         胜负总局      1.51       中      lgd           1000
+teamf vs viki     胜负总局      1.08       高      viki          3000
+papara vs dark    胜负总局      1.14       高      papara        2000
+
 8/2
   战队           	类型        赔率      推荐      下注       推荐金额
 besik vs eintra   胜负总局      1.42       中      eintra        1000
