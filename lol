@@ -1,7 +1,6 @@
 8/4
   战队           	类型        赔率      推荐      下注       推荐金额
 kc vs bds         胜负总局      2.5        中       bds           500
-bnk vs drx        胜负总局      1.31       中       bnk          1000
 kt vs bro         胜负总局      1.1        高       kt           3000
 ns vs kdf         胜负总局      1.4        中      kdf           1000
 gam vs viki       胜负总局      2.4        中      viki          500
