@@ -1,3 +1,9 @@
+8/5
+  战队           	类型        赔率      推荐      下注       推荐金额
+fly vs shop       胜负总局      1.09       高       fly          3000
+dfm vs west       胜负总局      9          低       west         300
+frank vs tb       胜负单局      1.12       中      frank        1500
+
 8/4
   战队           	类型        赔率      推荐      下注       推荐金额
 kc vs bds         胜负总局      2.5        中       bds           500
