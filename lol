@@ -1,8 +1,13 @@
 8/6
   战队           	类型        赔率      推荐      下注       推荐金额
 kt vs kdf         胜负总局      1.22       高       kt         2000
-dk vs ns          胜负总局      1.16       高       dk        2000
-cfo vs sg         胜负单局      1.12       高      cfo        2000
+dk vs ns          胜负总局      1.16       高       dk         2000
+cfo vs sg         胜负单局      1.12       高      cfo         2000
+mack vs entro     胜负总局      1.69       中       mack       1000
+bds vs dark       胜负总局      1.3        低       bds        1000
+kc vs ge          胜负总局      1.61       低       kc        1000
+ng vs misa        胜负总局      1.63       低       ng        1000
+
 
 8/5
   战队           	类型        赔率      推荐      下注       推荐金额
