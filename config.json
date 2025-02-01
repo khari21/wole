@@ -7,7 +7,7 @@
 	"usdtDesc": "",
 	"apiUrlValues": ["http://39.98.166.18:9000/配置/影视.json", "http://39.98.166.18:9000/配置/爱优腾芒.json", "http://39.98.166.18:9000/配置/教育.json", "http://39.98.166.18:9000/配置/动漫.json", "http://39.98.166.18:9000/配置/体育.json", "http://39.98.166.18:9000/配置/文艺.json", "http://39.98.166.18:9000/tvbox2/dianshi.json"],
 	"apiUrlTexts": ["影视", "爱优腾芒", "教育", "动漫", "体育", "有声书", "测试"],
-	"liveUrlValues": ["http://39.98.166.18:9000/配置/live-bak.txt", "http://mdxgh.v6.rocks:9999/new/mdlive.txt"],
+	"liveUrlValues": ["http://39.98.166.18:9000/配置/live-bak.txt", "http://39.98.166.18:9000/配置/live1.txt"],
 	"liveUrlTexts": ["电视直播", "测试"],
 	"epgUrl": "http://epg.112114.xyz/?ch={name}&date={date}",
 	"title": "我乐影视 2.6.4",
